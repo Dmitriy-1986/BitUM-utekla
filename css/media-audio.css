@@ -1,0 +1,37 @@
+@media (max-width: 1010px) {
+    .player {width: 800px;}
+    .playlist { width: 784px;}
+    .title {width: 400px;}
+}
+
+@media (max-width: 850px) {
+    .player {width: 700px;}
+    .playlist { width: 684px;}
+    .title {width: 300px;}
+}
+
+@media (max-width: 750px) {
+    .player {width: 600px;}
+    .playlist { width: 584px;}
+    .title {width: 200px;}
+}
+
+@media (max-width: 650px) {
+    .player {width: 500px;}
+    .playlist { width: 484px;}
+    .title {width: 175px;}
+}
+
+@media (max-width: 550px) {
+    .player {width: 400px;}
+    .playlist { width: 384px;}
+    .title {width: 125px; font-size: 10px;}
+}
+
+@media (max-width: 450px) {
+    .player {width: 300px; height: 115px;}
+    .playlist { width: 284px;}
+    .title {width: 125px; font-size: 10px;}
+    .cover {display: none;}
+    .components-title-play {height: 100px;}
+}
